@@ -1,0 +1,12 @@
+Directory E:\IdeaProjects\Installing\Games\src created
+Directory E:\IdeaProjects\Installing\Games\res created
+Directory E:\IdeaProjects\Installing\Games\savegames created
+Directory E:\IdeaProjects\Installing\Games\temp created
+Directory E:\IdeaProjects\Installing\Games\src\main created
+File E:\IdeaProjects\Installing\Games\src\main\Task1.java created
+File E:\IdeaProjects\Installing\Games\src\main\Utils.java created
+Directory E:\IdeaProjects\Installing\Games\src\test created
+Directory E:\IdeaProjects\Installing\Games\res\drawables created
+Directory E:\IdeaProjects\Installing\Games\res\vectors created
+Directory E:\IdeaProjects\Installing\Games\res\icons created
+File E:\IdeaProjects\Installing\Games\temp\temp.txt created
